@@ -22,8 +22,10 @@ I on ocassion tell really bad dad jokes!
 <br>
 <br>
 
+Feel free to contact me for any collaboration work.   
+<br>
+
 ### Spotify
 ![Spotify](https://spotify-now-playing.codedbydom.vercel.app/api/spotify)  
 
-Feel free to contact me for any collaboration work.   
-<br>  
+  
