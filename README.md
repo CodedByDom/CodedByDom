@@ -1,19 +1,14 @@
 ## Hi there 👋
 
 I am a Full-Stack developer based out of Cape Town, South Africa! (or somewhere on Planet Earth.) <br/>
-You can find me geeking out on new tech whilst bouncing off the walls due to a coffee addiction. *Espresso Please!* :coffee: <br/>
+You can find me geeking out on new tech whilst bouncing off the walls due to a coffee addiction.
+<br>
 
+<p>
+  <img width="300" align='right' src="https://github.com/CodedByDom/CodedByDom/blob/main/src/Dad-joke.png?raw=true">
+</p>
 
 I on ocassion tell really bad dad jokes!
-
-*Clears Throat* <br/>
-
-Me: What do you call a laptop that sings?<br/>
-Audience:...<br/>
-Me:...<br/>
-Audience:...<br/>
-Me: A Dell! <br/>
-:grimacing:<br/>
 
 ### _Application & Data_  
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
