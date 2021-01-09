@@ -2,13 +2,12 @@
 
 I am a Full-Stack developer based out of Cape Town, South Africa! (or somewhere on Planet Earth.) <br/>
 You can find me geeking out on new tech whilst bouncing off the walls due to a coffee addiction.
-<br>
 
 <p>
   <img width="300" align='right' src="https://github.com/CodedByDom/CodedByDom/blob/main/src/Dad-joke.png?raw=true">
 </p>
 
-I on ocassion tell really bad dad jokes!
+I on ocassion tell really bad dad jokes!  
 
 ### _TechStack_ 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -20,8 +19,10 @@ I on ocassion tell really bad dad jokes!
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />  
 <img align="left" alt="SQL/PostGresSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Github" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DJA0fGvlEyOB9XGueTX1scSkcl8CFLYH3g&usqp=CAU" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
-<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />  
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><br>
+<br>
+<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br>
 <br>
 <br>
@@ -29,4 +30,3 @@ I on ocassion tell really bad dad jokes!
    
 ### Spotify
 ![Spotify](https://spotify-now-playing.codedbydom.vercel.app/api/spotify)  
-
