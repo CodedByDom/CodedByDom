@@ -21,7 +21,8 @@ I on ocassion tell really bad dad jokes!
 <img align="left" alt="SQL/PostGresSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Github" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DJA0fGvlEyOB9XGueTX1scSkcl8CFLYH3g&usqp=CAU" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
-
+<br>
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />  
 <br>
 <br>
 <br>
