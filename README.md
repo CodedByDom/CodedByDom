@@ -29,6 +29,3 @@ I on ocassion tell really bad dad jokes!
 <br>
 <br>
 <br>
-
-### Spotify
-![Spotify](https://spotify-now-playing.codedbydom.vercel.app/api/spotify)  
